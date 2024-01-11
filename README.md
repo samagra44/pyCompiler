@@ -7,8 +7,6 @@ Python compiler built with Django, enabling users to run Python code snippets di
 - **Code Execution**: Users can write and execute Python code in the browser.
 - **Syntax Highlighting**: The code editor includes syntax highlighting for better code readability.
 - **Error Handling**: Real-time error feedback for a smoother coding experience.
-- **User Authentication**: Secure user authentication system for personalized experiences.
-- **User Dashboard**: Keep track of your executed code snippets and revisit them in your user dashboard.
 
 ## Requirements
 
